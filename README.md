@@ -6,5 +6,7 @@ This tool utilizes OpenAI's GPT model in the backend. The UI was built using Str
 
 # Demo
 
+![demo](https://github.com/user-attachments/assets/c4793f31-ccbe-4021-ae8f-5e90a2e68d8e)
+
 
 
